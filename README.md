@@ -130,18 +130,22 @@ Detects blind XSS, stored XSS, second-order SQLi, SSTI through callback correlat
 「  W O R K F L O W  」
 </h2>
 
+<div align="center">
+
 ```
-  ┌──────────────┐      ┌──────────────┐      ┌──────────────┐
-  │              │      │              │      │              │
-  │    RECON     │─────▶│   ANALYZE    │─────▶│    ATTACK    │
-  │              │      │              │      │              │
-  └──────────────┘      └──────────────┘      └──────────────┘
-        │                     │                     │
-        ▼                     ▼                     ▼
-   ghost-recon           js-surgeon           context-cannon
-   diff-hunter                                 venom-cache
-                                                ricochet
+┌──────────────┐      ┌──────────────┐      ┌──────────────┐
+│              │      │              │      │              │
+│    RECON     │─────▶│   ANALYZE    │─────▶│    ATTACK    │
+│              │      │              │      │              │
+└──────────────┘      └──────────────┘      └──────────────┘
+       │                     │                     │
+       ▼                     ▼                     ▼
+  ghost-recon           js-surgeon           context-cannon
+  diff-hunter                                 venom-cache
+                                               ricochet
 ```
+
+</div>
 
 <br>
 
