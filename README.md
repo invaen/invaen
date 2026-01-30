@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=500&color=888888&center=true&vCenter=true&width=700&lines=Security+Researcher+%7C+Tool+Builder+%7C+Bug+Bounty+Hunter;I+don't+break+systems.+I+break+assumptions." alt="tagline" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=500&color=888888&center=true&vCenter=true&width=700&lines=Security+Researcher+%7C+Tool+Builder+%7C+HTB+Academy;I+don't+break+systems.+I+break+assumptions." alt="tagline" />
 </p>
 
 <br>
