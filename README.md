@@ -31,81 +31,94 @@
 
 <br>
 
-<!-- ROW 1: RECON -->
 <table align="center">
 <tr>
-<td width="50%">
+<td align="center" colspan="2">
+<br>
+<img src="https://img.shields.io/badge/▸_RECONNAISSANCE-1a1a2e?style=for-the-badge" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### [ghost-recon](https://github.com/invaen/ghost-recon)
-```
-Reconnaissance that thinks about what it finds
-```
+<h3><a href="https://github.com/invaen/ghost-recon">👻 ghost-recon</a></h3>
+
+> *Reconnaissance that thinks about what it finds*
+
 Subdomain discovery, live host probing, tech fingerprinting, and intelligent analysis
 
-`python` `zero-deps` `recon`
+<img src="https://img.shields.io/badge/python-306998?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/zero--deps-00ff00?style=flat-square" />
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [diff-hunter](https://github.com/invaen/diff-hunter)
-```
-Catch new attack surface before anyone else
-```
+<h3><a href="https://github.com/invaen/diff-hunter">🎯 diff-hunter</a></h3>
+
+> *Catch new attack surface before anyone else*
+
 Continuous monitoring for subdomain changes, endpoint exposure, and configuration drift
 
-`python` `zero-deps` `monitoring`
+<img src="https://img.shields.io/badge/python-306998?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/zero--deps-00ff00?style=flat-square" />
 
 </td>
 </tr>
-
-<!-- ROW 2: ANALYSIS -->
 <tr>
-<td width="50%">
+<td align="center" colspan="2">
+<br>
+<img src="https://img.shields.io/badge/▸_ANALYSIS-1a1a2e?style=for-the-badge" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### [js-surgeon](https://github.com/invaen/js-surgeon)
-```
-Extract secrets from JavaScript
-```
+<h3><a href="https://github.com/invaen/js-surgeon">🔪 js-surgeon</a></h3>
+
+> *Extract secrets from JavaScript*
+
 Static analysis for bug bounty hunters — finds endpoints, API keys, and anti-patterns
 
-`python` `zero-deps` `analysis`
+<img src="https://img.shields.io/badge/python-306998?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/zero--deps-00ff00?style=flat-square" />
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [context-cannon](https://github.com/invaen/context-cannon)
-```
-Payloads that adapt to context and filters
-```
+<h3><a href="https://github.com/invaen/context-cannon">💣 context-cannon</a></h3>
+
+> *Payloads that adapt to context and filters*
+
 XSS, SQLi, SSTI, SSRF, LFI — encoded and filtered for your exact injection point
 
-`python` `zero-deps` `payloads`
+<img src="https://img.shields.io/badge/python-306998?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/zero--deps-00ff00?style=flat-square" />
 
 </td>
 </tr>
-
-<!-- ROW 3: ATTACK -->
 <tr>
-<td width="50%">
+<td align="center" colspan="2">
+<br>
+<img src="https://img.shields.io/badge/▸_EXPLOITATION-1a1a2e?style=for-the-badge" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### [venom-cache](https://github.com/invaen/venom-cache)
-```
-Web cache poisoning from the command line
-```
+<h3><a href="https://github.com/invaen/venom-cache">🧪 venom-cache</a></h3>
+
+> *Web cache poisoning from the command line*
+
 Finds unkeyed inputs that affect cached responses. No Burp Suite required.
 
-`python` `zero-deps` `cache-poisoning`
+<img src="https://img.shields.io/badge/python-306998?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/zero--deps-00ff00?style=flat-square" />
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### [ricochet](https://github.com/invaen/ricochet)
-```
-Second-order vulnerability detection
-```
+<h3><a href="https://github.com/invaen/ricochet">📡 ricochet</a></h3>
+
+> *Second-order vulnerability detection*
+
 Detects blind XSS, stored XSS, second-order SQLi, SSTI through callback correlation
 
-`python` `zero-deps` `oob-detection`
+<img src="https://img.shields.io/badge/python-306998?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/zero--deps-00ff00?style=flat-square" />
 
 </td>
 </tr>
