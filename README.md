@@ -1,4 +1,4 @@
-<!-- SIMPLE ANIMATED HEADER -->
+<!-- ANIMATED HEADER -->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=70&lines=%24+ssh+invaen" alt="header" />
 </p>
@@ -12,7 +12,6 @@
 <img src="https://img.shields.io/badge/THREAT_LEVEL-MAXIMUM-ff0000?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/STATUS-HUNTING-00ff00?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/CACHES_POISONED-∞-bf00ff?style=for-the-badge&labelColor=000000" />
-<img src="https://komarev.com/ghpvc/?username=invaen&style=for-the-badge&color=ff0080&label=VISITORS" />
 </p>
 
 ---
@@ -29,85 +28,25 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=3000&color=FF0040&center=true&vCenter=true&width=400&lines=%F0%9F%92%80+ARSENAL+%F0%9F%92%80" alt="Arsenal" />
 </p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧪 venom-cache
-[![venom-cache](https://github-readme-stats.vercel.app/api/pin/?username=invaen&repo=venom-cache&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0040&icon_color=00ff00)](https://github.com/invaen/venom-cache)
-
+### 🧪 [venom-cache](https://github.com/invaen/venom-cache)
+Web cache poisoning detection — finds unkeyed inputs that affect cached responses. The techniques behind Tesla, GitHub, and countless bounty payouts. **No Burp Pro required.**
 ```
-► Cache poisoning detection
-► Unkeyed headers/params
-► Fat GET & WCD attacks
-► Zero dependencies
-► No Burp Pro required
+► Unkeyed header detection    ► Fat GET poisoning
+► Parameter cloaking          ► Web cache deception
+► Zero dependencies           ► Safe by default
 ```
-<sub>The techniques behind Tesla & GitHub bounties</sub>
 
-</td>
-<td width="50%" valign="top">
+### 👻 [ghost-recon](https://github.com/invaen/ghost-recon)
+Intelligent reconnaissance with subdomain discovery, tech fingerprinting, and a reasoning layer that prioritizes findings.
 
-### 👻 ghost-recon
-[![ghost-recon](https://github-readme-stats.vercel.app/api/pin/?username=invaen&repo=ghost-recon&theme=radical&hide_border=true&bg_color=0d1117&title_color=9400d3&icon_color=00ff00)](https://github.com/invaen/ghost-recon)
+### 🔪 [js-surgeon](https://github.com/invaen/js-surgeon)
+JavaScript static analysis — extracts secrets, API endpoints, and security anti-patterns from JS bundles.
 
-```
-► Intelligent reconnaissance
-► Subdomain discovery
-► Tech fingerprinting
-► AI prioritization
-► Attack surface mapping
-```
-<sub>Recon with a reasoning layer</sub>
+### 🎯 [diff-hunter](https://github.com/invaen/diff-hunter)
+Attack surface monitoring — continuous tracking of subdomain changes, endpoint exposure, and configuration drift.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔪 js-surgeon
-[![js-surgeon](https://github-readme-stats.vercel.app/api/pin/?username=invaen&repo=js-surgeon&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=ff0080)](https://github.com/invaen/js-surgeon)
-
-```
-► JavaScript analysis
-► Secret extraction
-► API endpoint discovery
-► Source map analysis
-► Security anti-patterns
-```
-<sub>Exposing what devs tried to hide</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 diff-hunter
-[![diff-hunter](https://github-readme-stats.vercel.app/api/pin/?username=invaen&repo=diff-hunter&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=ff0080)](https://github.com/invaen/diff-hunter)
-
-```
-► Attack surface monitoring
-► Subdomain change tracking
-► Endpoint exposure alerts
-► Configuration drift
-► Delta reporting
-```
-<sub>Catch the moment surfaces expand</sub>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### 💣 context-cannon
-[![context-cannon](https://github-readme-stats.vercel.app/api/pin/?username=invaen&repo=context-cannon&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6600&icon_color=00ff00)](https://github.com/invaen/context-cannon)
-
-```
-XSS │ SQLi │ SSTI │ SSRF │ LFI │ RCE │ Filter Bypass │ Encoding Chains
-```
-<sub>When WAFs think they've seen everything</sub>
-
-</td>
-</tr>
-</table>
+### 💣 [context-cannon](https://github.com/invaen/context-cannon)
+Context-aware payload generation — XSS, SQLi, SSTI, SSRF, LFI with filter bypass and encoding chains.
 
 ---
 
@@ -120,21 +59,13 @@ XSS │ SQLi │ SSTI │ SSRF │ LFI │ RCE │ Filter Bypass │ Encoding Ch
 <img src="https://skillicons.dev/icons?i=python,typescript,go,bash,linux,docker,git,vim&theme=dark&perline=8" />
 </p>
 
-<!-- STATS -->
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=invaen&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0080&icon_color=00ff00&text_color=ffffff&ring_color=ff0080&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=invaen&theme=radical&hide_border=true&background=0d1117&ring=ff0080&fire=00ff00&currStreakLabel=00ff00&sideLabels=ff0080" />
-</p>
-
-<!-- ACTIVITY GRAPH -->
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=invaen&custom_title=ACTIVITY&hide_border=true&bg_color=0d1117&color=ff0080&line=00ff00&point=ff0040&area=true&area_color=00ff0020" width="100%"/>
-</p>
-
-<!-- TROPHY -->
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=invaen&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" />
-</p>
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  [LANGUAGES]     Python ═══ TypeScript ═══ Go ═══ Bash                     │
+│  [SECURITY]      Burp Suite ═══ Nuclei ═══ FFuf ═══ Custom Tooling         │
+│  [FOCUS]         Cache Poisoning ═══ Request Smuggling ═══ SSRF ═══ Auth   │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -149,27 +80,20 @@ XSS │ SQLi │ SSTI │ SSRF │ LFI │ RCE │ Filter Bypass │ Encoding Ch
 
 ---
 
-<!-- LANGUAGES -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=invaen&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0080" />
-</p>
-
----
-
 <!-- QUOTE -->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=FF0080&center=true&vCenter=true&width=700&lines=%22The+cache+doesn't+lie.+The+cache+doesn't+forget.;But+the+cache+can+be...+persuaded.%22" alt="quote" />
 </p>
 
-<!-- BADGES -->
+<!-- TOOL BADGES -->
 <p align="center">
-<img src="https://img.shields.io/badge/venom--cache-CACHE_POISONING-ff0040?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/ghost--recon-RECON-9400d3?style=for-the-badge&logo=ghost&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/js--surgeon-ANALYSIS-00ff00?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000" />
+<a href="https://github.com/invaen/venom-cache"><img src="https://img.shields.io/badge/venom--cache-CACHE_POISONING-ff0040?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" /></a>
+<a href="https://github.com/invaen/ghost-recon"><img src="https://img.shields.io/badge/ghost--recon-RECON-9400d3?style=for-the-badge&logo=ghost&logoColor=white&labelColor=000000" /></a>
+<a href="https://github.com/invaen/js-surgeon"><img src="https://img.shields.io/badge/js--surgeon-ANALYSIS-00ff00?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000" /></a>
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/diff--hunter-MONITORING-00d4ff?style=for-the-badge&logo=target&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/context--cannon-PAYLOADS-ff6600?style=for-the-badge&logo=atom&logoColor=white&labelColor=000000" />
+<a href="https://github.com/invaen/diff-hunter"><img src="https://img.shields.io/badge/diff--hunter-MONITORING-00d4ff?style=for-the-badge&logo=target&logoColor=white&labelColor=000000" /></a>
+<a href="https://github.com/invaen/context-cannon"><img src="https://img.shields.io/badge/context--cannon-PAYLOADS-ff6600?style=for-the-badge&logo=atom&logoColor=white&labelColor=000000" /></a>
 </p>
 
 ---
